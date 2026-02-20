@@ -42,6 +42,7 @@ while True:
 ## OUPUT
 server
 <img width="936" height="201" alt="Screenshot 2026-02-20 105519" src="https://github.com/user-attachments/assets/444a92ff-6580-46d6-926b-caf08e364a90" />
+
 Client
 <img width="933" height="154" alt="Screenshot 2026-02-20 105626" src="https://github.com/user-attachments/assets/6b38cec9-93d4-4efd-b02b-65491ccdc768" />
 ## RESULT
